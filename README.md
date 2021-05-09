@@ -3,14 +3,14 @@ Rabico is a Visual Novel Engine for Android made by HARunaDev.
 
 **Currently Rabico engine is becoming an open-source project, so please wait until I move everything into GitHub.**
 
-# Install
+## Install
 ### From Play Store
 [Link to Play Store](https://play.google.com/store/apps/details?id=cm7dev.Rabico)
 
 ### Build from your environment
 Download the project as ZIP and open it with Android Studio.
 
-# Rabico! OpenServer
+## Rabico! OpenServer
 To run the Community OpenServer on your own server, you need a web server with Apache / Nginx, Java 8+, PHP, and some *many* time.
 
 1. Download Full Rabico OpenServer package from [here (Link not ready yet)](harunadev.com)
@@ -21,5 +21,5 @@ To run the Community OpenServer on your own server, you need a web server with A
 6. Execute the "server.jar" file using Java with admin privilage (Windows). I recommend using CMDER console emulator for long-term operation.
 7. Email your server IP (not domain) with region to harunadev@gmail.com for adding your server as official community server.
 
-# License
+## License
 Refer to LICENSE.
